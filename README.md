@@ -11,9 +11,9 @@
   ## Table of Contents 
 
   * [Installation](#installation)
-  * [usage](#usage)
+  * [Usage](#usage)
   * [License](#license)
-  * [contributors](#contributors)
+  * [Contributors](#contributors)
   * [Test](#test)
   * [Contact](#contact)
   # Installation
