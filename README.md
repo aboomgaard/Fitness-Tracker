@@ -1,4 +1,4 @@
-# Unit 17 NoSQL Homework: Workout Tracker
+# Workout Tracker
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description 
