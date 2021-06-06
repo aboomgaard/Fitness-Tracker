@@ -2,8 +2,10 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description 
-    Creating a Workout Tracker with MongoDB and routes with Express. Keep track of your workouts!
-
+    A Fitness Tracker that tracks your workouts with MongoDB and handle routes with Express. Keep your fitness life organized! 
+    
+    
+    
   ## Application
     Img
 
