@@ -7,8 +7,7 @@
     
     
   ## Application
-    Img
-
+    https://aboomgaard.github.io/Fitness-Tracker
 
   ## Table of Contents 
 
